@@ -14,7 +14,7 @@ body {
 }
 
 .search {
-  position: relative;
+  position: relative; /* may change */
   height: 50px;
 }
 
